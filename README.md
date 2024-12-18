@@ -1,7 +1,3 @@
-## Hi there 👋, welcome to my world.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriHeller&show_icons=true&theme=tokionight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriHeller)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
